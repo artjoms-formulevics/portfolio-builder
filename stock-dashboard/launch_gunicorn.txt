@@ -1,0 +1,2 @@
+#!/bin/sh
+sudo gunicorn hosting:server -b 0.0.0.0:80

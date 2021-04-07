@@ -1,0 +1,2 @@
+1: Portfolio : ticker_10 Return : 0.2068 Risk : 0.1699 Sharpe : 1.0994
+1: Portfolio : ticker_25 Return : 0.3696 Risk : 0.1925 Sharpe : 1.8156
