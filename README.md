@@ -63,8 +63,7 @@ For the fundamental analysis, selected companies’ financial data is getting do
 * Growth Ratios
 * Discounted Cash Flow
 
-API Keys are currently stored in form of a list, in the file `config.py`, excluded from this repo for security reasons (despite for being free-tier keys). The list of several keys is used, because of limit on calls in a single day.
-
+API Keys are currently stored in form of a list, in the file `config.py`, excluded from this repo for security reasons (despite for being free-tier keys).
 #### Ranking the Companies
 
 After the financial data is downloaded, every company gets evaluated on the stability and the attractiveness for the investment. From vast amount of financial data, only several metrics were identified to be important to determine, if the investment in a particular company is a solid idea. Each of them has its own arbitrary threshold value, set by expert evaluation. Those financial criteria are:
