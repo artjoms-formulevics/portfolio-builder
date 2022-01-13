@@ -28,7 +28,7 @@ osqp==0.6.2.post0
 pandas==1.2.2
 pandas-datareader==0.9.0
 pandas-market-calendars==1.6.1
-Pillow==8.1.0
+Pillow==9.0.0
 plotly==4.14.3
 pyparsing==2.4.7
 pyportfolioopt==1.4.0
